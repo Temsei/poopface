@@ -1,0 +1,101 @@
+
+
+                                                  **       28SCAPE.COM      **
+
+
+This file will outline the general design and layout of the pages to be featured on 28scape.com.
+Planning will take place on this file and all ideas generated will be written here for future referencing.
+
+NOTES: Comments will be posted beside ideas using //-
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+                                                  **       28SCAPE.COM      **
+
+
+
+      SITE CONTENTS
+
+1. Landing
+2. Download //- Just use a download button clearly visible on every page?
+3. Vote
+4. Highscores
+5. Guilds
+6. Forum
+7. *!$!*DONATE*!$!*
+8. Toplist Ads
+9. Youtube Ads
+10. Social Media Ads
+
+                                                            *****
+
+      GENERAL CONSIDERATIONS
+
+Site should aim to display a retro style that is fitting with the idea of "2006 style servers" and remain clear/uncluttered.
+
+Users should immediately have an unconscious ability to navigate through the website because of the design.
+
+Site should load as quick as possible. //- Media/Links that cause page to lag should be used only when necessary.
+
+Donation pages noticeable and very simple to use with minimum effort. //- PayPal + BITCOIN only - must set up a wallet for BTC!!!
+
+
+                                                            *****
+
+1.    LANDING
+
+Simple header featuring in-game activities.
+background: rgb(0, 0, 0); + font-family: 'VT323', monospace; + color: rgb(0, 212, 0);
+nav: background-color: #666 + nav.hover: background-color:#333;
+
+Download/Donate/Vote buttons on side (as well as in nav-bar)
+
+2.    DOWNLOAD
+
+**Just use a download button clearly visible on every page?**
+
+3.    VOTE
+
+Link to several (5) voting sites.
+Voting manager used from Rune-Server link in bookmarks.
+
+4.    HIGHSCORES
+
+Working highscore list for Regular players, Ironman, Ultimate Ironman, Hardcore Ironman, Duo Ironman. //- Duo shows combined total levels.
+
+5.    GUILDS
+
+???
+
+6.    FORUM
+
+Vanilla/SMF forums inc. sections;
+-Announcements
+-Update Log
+-Bugs
+-Introductions
+-Guides
+-Clans/Guilds
+-General
+  - Goals
+  - Media
+-Market place
+  -Buying
+  -Selling
+-Robret
+-Appeal all
+-Misc (random)
+
+
+7.    *!$!*DONATE*!$!*
+
+Automated system using PayPal and Bitcoin.
+Donate for tokens that can be used within site - item can be claimed by speaking to NPC ingame?
+
+8.    TOPLIST ADS
+
+9.    YOUTUBE ADS
+
+10.   SOCIAL MEDIA ADS
